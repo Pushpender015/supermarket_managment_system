@@ -30,3 +30,4 @@ C:\Work Space\C# Learning\MVC_Course\WebApp\obj\Debug\net8.0\ref\WebApp.dll
 C:\Work Space\C# Learning\MVC_Course\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
 C:\Work Space\C# Learning\MVC_Course\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
 C:\Work Space\C# Learning\MVC_Course\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
+C:\Work Space\C# Learning\MVC_Course\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json
